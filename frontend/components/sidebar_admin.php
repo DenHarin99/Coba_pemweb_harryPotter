@@ -47,7 +47,7 @@ function isActiveAdmin($page) {
   </nav>
 
   <div class="sidebar-footer">
-    <a href="../../backend/actions/logout.php" class="nav-link" style="color:var(--text-muted)">
+    <a href="/backend/actions/logout.php" class="nav-link" style="color:var(--text-muted)">
       <span class="nav-icon">🚪</span> Logout
     </a>
   </div>

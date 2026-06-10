@@ -78,8 +78,8 @@ $houseClass= strtolower($house);
         </div>
 
         <div style="margin-top:24px">
-          <a href="../../backend/actions/logout.php" class="btn btn-danger" style="width:100%">
-            🚪 Logout
+          <a href="/backend/actions/logout.php" class="btn btn-danger" style="width:100%">
+              🚪 Logout
           </a>
         </div>
       </div>
